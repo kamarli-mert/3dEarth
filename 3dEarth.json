@@ -5,7 +5,7 @@
         "type": "Feature",
         "properties": {
           "NAME": "Africa"
-        },  bunu githubdan çekebilecegim veri dosyaası haline getirir misin
+        },  
 
         "geometry": {
           "type": "Polygon",
