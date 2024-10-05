@@ -1,0 +1,222 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "Africa"
+        },  bunu githubdan çekebilecegim veri dosyaası haline getirir misin
+
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-17.5, 37.5],
+              [51.0, 37.5],
+              [51.0, -35.0],
+              [-17.5, -35.0],
+              [-17.5, 37.5]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "Europe"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-25.0, 71.0],
+              [45.0, 71.0],
+              [45.0, 34.5],
+              [-25.0, 34.5],
+              [-25.0, 71.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "Asia"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [26.0, 81.0],
+              [180.0, 81.0],
+              [180.0, 1.5],
+              [26.0, 1.5],
+              [26.0, 81.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "North America"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-168.0, 71.0],
+              [-50.0, 71.0],
+              [-50.0, 7.0],
+              [-168.0, 7.0],
+              [-168.0, 71.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "South America"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-81.0, 12.5],
+              [-32.0, 12.5],
+              [-32.0, -55.0],
+              [-81.0, -55.0],
+              [-81.0, 12.5]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "Antarctica"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-180.0, -60.0],
+              [180.0, -60.0],
+              [180.0, -90.0],
+              [-180.0, -90.0],
+              [-180.0, -60.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "Australia/Oceania"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [110.0, -10.0],
+              [180.0, -10.0],
+              [180.0, -50.0],
+              [110.0, -50.0],
+              [110.0, -10.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "Pacific Ocean"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [112.0, 66.0],
+              [-78.0, 66.0],
+              [-78.0, -60.0],
+              [112.0, -60.0],
+              [112.0, 66.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "Atlantic Ocean"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-75.0, 70.0],
+              [-20.0, 70.0],
+              [-20.0, -60.0],
+              [-75.0, -60.0],
+              [-75.0, 70.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "Indian Ocean"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [20.0, 25.0],
+              [120.0, 25.0],
+              [120.0, -55.0],
+              [20.0, -55.0],
+              [20.0, 25.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "Arctic Ocean"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-180.0, 60.0],
+              [180.0, 60.0],
+              [180.0, 90.0],
+              [-180.0, 90.0],
+              [-180.0, 60.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "NAME": "Southern Ocean"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-180.0, -60.0],
+              [180.0, -60.0],
+              [180.0, -90.0],
+              [-180.0, -90.0],
+              [-180.0, -60.0]
+            ]
+          ]
+        }
+      }
+    ]
+  }
